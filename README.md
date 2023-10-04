@@ -52,3 +52,10 @@ Directory Structure
 app.py: Main Flask application file.
 templates/: HTML templates used by Flask.
 
+## SCREENSHOTS
+![image](https://github.com/diksha-dev-mob/gadgetkart/assets/146983225/c3f15735-9d72-4678-ac51-b17fe9102e7d)
+![image](https://github.com/diksha-dev-mob/gadgetkart/assets/146983225/f61dc023-3e01-4c65-9a84-94f4f0fa1a8f)
+![image](https://github.com/diksha-dev-mob/gadgetkart/assets/146983225/7a0bd439-3147-4920-8006-d615bc785766)
+
+
+
